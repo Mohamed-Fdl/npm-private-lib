@@ -1,4 +1,5 @@
-export const IsTest = (userInput) => {
-  return userInput === "TEST";
+const IsTest = (stringInput) => {
+  return typeof stringInput === "string" && stringInput === "TEST";
 };
 
+module.exports = IsTest;
