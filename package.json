@@ -1,0 +1,25 @@
+{
+  "name": "@illimina/test-private-lib",
+  "version": "1.0.0",
+  "description": "Private lib test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohamed-Fdl/npm-private-lib.git"
+  },
+  "keywords": [
+    "TEST",
+    "NPM",
+    "PRIVATE",
+    "LIB"
+  ],
+  "author": "Mohamed Fdl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohamed-Fdl/npm-private-lib/issues"
+  },
+  "homepage": "https://github.com/Mohamed-Fdl/npm-private-lib#readme"
+}
